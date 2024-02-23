@@ -21,9 +21,9 @@ body {
   font-family: 'Courier New', monospace;
   white-space: pre;
   margin: 0;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.4;
-  animation: animateCmd 45s linear infinite;
+  animation: animateCmd 60s linear infinite;
 }
 .cmd-text .highlight {
   color: #ff0000; /* Color para resaltar, puedes ajustarlo según tus preferencias */
